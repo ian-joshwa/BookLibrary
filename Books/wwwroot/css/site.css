@@ -1,0 +1,43 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+
+.editimage {
+    width: 200px;
+    aspect-ratio: 9/14;
+}
+
+    .editimage img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+
+.book-card {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.book-card-img {
+    width: 100%;
+    aspect-ratio: 9/16;
+    object-fit: cover;
+}

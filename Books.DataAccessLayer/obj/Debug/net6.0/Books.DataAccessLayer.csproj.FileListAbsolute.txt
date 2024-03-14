@@ -1,0 +1,15 @@
+C:\Users\Joshwa\source\repos\Books\Books.DataAccessLayer\obj\Debug\net6.0\Books.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Joshwa\source\repos\Books\Books.DataAccessLayer\obj\Debug\net6.0\Books.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joshwa\source\repos\Books\Books.DataAccessLayer\obj\Debug\net6.0\Books.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Joshwa\source\repos\Books\Books.DataAccessLayer\obj\Debug\net6.0\Books.DataAccessLayer.AssemblyInfo.cs
+C:\Users\Joshwa\source\repos\Books\Books.DataAccessLayer\obj\Debug\net6.0\Books.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Joshwa\source\repos\Books\Books.DataAccessLayer\bin\Debug\net6.0\Books.DataAccessLayer.deps.json
+C:\Users\Joshwa\source\repos\Books\Books.DataAccessLayer\bin\Debug\net6.0\Books.DataAccessLayer.dll
+C:\Users\Joshwa\source\repos\Books\Books.DataAccessLayer\bin\Debug\net6.0\Books.DataAccessLayer.pdb
+C:\Users\Joshwa\source\repos\Books\Books.DataAccessLayer\bin\Debug\net6.0\Books.Models.dll
+C:\Users\Joshwa\source\repos\Books\Books.DataAccessLayer\bin\Debug\net6.0\Books.Models.pdb
+C:\Users\Joshwa\source\repos\Books\Books.DataAccessLayer\obj\Debug\net6.0\Books.Da.D78D4843.Up2Date
+C:\Users\Joshwa\source\repos\Books\Books.DataAccessLayer\obj\Debug\net6.0\Books.DataAccessLayer.dll
+C:\Users\Joshwa\source\repos\Books\Books.DataAccessLayer\obj\Debug\net6.0\refint\Books.DataAccessLayer.dll
+C:\Users\Joshwa\source\repos\Books\Books.DataAccessLayer\obj\Debug\net6.0\Books.DataAccessLayer.pdb
+C:\Users\Joshwa\source\repos\Books\Books.DataAccessLayer\obj\Debug\net6.0\ref\Books.DataAccessLayer.dll

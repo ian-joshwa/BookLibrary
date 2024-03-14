@@ -1,0 +1,73 @@
+﻿@model Books.Models.ViewModels.BookVM
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="row">
+    <div class="col-6">
+        <h2>Books</h2>
+    </div>
+
+    <div class="col-6">
+        <a class="btn btn-primary" asp-area="Admin" asp-controller="Book" asp-action="AddBook">Add Book</a>
+    </div>
+</div>
+
+<div class="row">
+
+    <div class="col-12">
+
+        <table class="table table-bordered" id="BookTable">
+
+            <thead>
+                <tr>
+                    <th>Book Name</th>
+                    <th>Publish Year</th>
+                    <th>Cover Price</th>
+                    <th>Category</th>
+                    <th>Status</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            @* <tbody>
+
+                @foreach(var book in Model.Books)
+                {
+                    
+                    <tr>
+
+                        <td>@book.BookName</td>
+                        <td>@book.PublishYear</td>
+                        <td>@book.CoverPrice</td>
+                        <td>@book.Category.Name</td>
+                        @if (book.Status)
+                        {
+                            <td>Available</td>
+                        }
+                        else
+                        {
+                            <td>Not Available</td>
+                        }
+                        <td>
+                            <a class="btn btn-primary" asp-area="Admin" asp-controller="Book" asp-action="EditBook" asp-route-id="@book.BookId">Edit</a>
+                            <a class="btn btn-danger" asp-area="Admin" asp-controller="Book" asp-action="DeleteBook" asp-route-id="@book.BookId">Delete</a>
+                        </td>
+
+                    </tr>
+
+                }
+
+            </tbody> *@
+        </table>
+
+    </div>
+
+</div>
+
+
+@section scripts {
+
+    <script src="/js/Books.js"></script>
+
+}

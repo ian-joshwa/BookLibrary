@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Joshwa\\source\\repos\\Books\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41FD6B38-F557-4671-B191-E495CCC24CBC}|Books\\Books.csproj|c:\\users\\joshwa\\source\\repos\\books\\books\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41FD6B38-F557-4671-B191-E495CCC24CBC}|Books\\Books.csproj|solutionrelative:books\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41FD6B38-F557-4671-B191-E495CCC24CBC}|Books\\Books.csproj|c:\\users\\joshwa\\source\\repos\\books\\books\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41FD6B38-F557-4671-B191-E495CCC24CBC}|Books\\Books.csproj|solutionrelative:books\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41FD6B38-F557-4671-B191-E495CCC24CBC}|Books\\Books.csproj|c:\\users\\joshwa\\source\\repos\\books\\books\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41FD6B38-F557-4671-B191-E495CCC24CBC}|Books\\Books.csproj|solutionrelative:books\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41FD6B38-F557-4671-B191-E495CCC24CBC}|Books\\Books.csproj|c:\\users\\joshwa\\source\\repos\\books\\books\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41FD6B38-F557-4671-B191-E495CCC24CBC}|Books\\Books.csproj|solutionrelative:books\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41FD6B38-F557-4671-B191-E495CCC24CBC}|Books\\Books.csproj|c:\\users\\joshwa\\source\\repos\\books\\books\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{41FD6B38-F557-4671-B191-E495CCC24CBC}|Books\\Books.csproj|solutionrelative:books\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Joshwa\\source\\repos\\Books\\Books\\Program.cs",
+              "RelativeDocumentMoniker": "Books\\Program.cs",
+              "ToolTip": "C:\\Users\\Joshwa\\source\\repos\\Books\\Books\\Program.cs",
+              "RelativeToolTip": "Books\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T13:57:17.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Joshwa\\source\\repos\\Books\\Books\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Books\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Joshwa\\source\\repos\\Books\\Books\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Books\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T13:41:51.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Joshwa\\source\\repos\\Books\\Books\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Books\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Joshwa\\source\\repos\\Books\\Books\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Books\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-14T13:39:36.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Joshwa\\source\\repos\\Books\\Books\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Books\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Joshwa\\source\\repos\\Books\\Books\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Books\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T13:35:06.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Joshwa\\source\\repos\\Books\\Books\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Books\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Joshwa\\source\\repos\\Books\\Books\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Books\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T13:31:16.938Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+﻿@model IEnumerable<Book>
+
+
+<div class="row">
+
+    @foreach(var book in Model)
+    {
+
+        <div class="book-card col-3">
+
+            <img class="book-card-img" src="@book.Image" alt="@book.Image Image"/>
+            <h3>@book.BookName</h3>
+            <h5>@book.CoverPrice.ToString("0.00")</h5>
+
+            <a class="btn btn-secondary" >Read More</a>
+
+        </div>
+
+    }
+
+
+</div>

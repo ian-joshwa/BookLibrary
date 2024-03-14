@@ -1,0 +1,40 @@
+﻿@model Books.Models.ViewModels.CategoryVM
+
+<div class="row">
+
+    <div class="col-12">
+
+        <h2>Add Category</h2>
+
+    </div>
+
+</div>
+
+<div class="row">
+
+    <div class="col-12">
+
+        <form method="post">
+
+            <label asp-for="Category.Name">Category Name</label>
+            <input asp-for="Category.Name" class="form-control" />
+            <span asp-validation-for="Category.Name"></span>
+
+            <button type="submit" class="btn btn-success mt-2">Submit</button>
+
+        </form>
+
+        <a class="btn btn-secondary mt-2" asp-area="Admin" asp-controller="Category" asp-action="Index">Back to list</a>
+
+    </div>
+
+</div>
+
+
+@section scripts {
+
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+
+}

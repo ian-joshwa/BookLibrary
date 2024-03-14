@@ -1,0 +1,12 @@
+C:\Users\Joshwa\source\repos\Books\Books.CommonHelper\bin\Debug\net6.0\Books.CommonHelper.deps.json
+C:\Users\Joshwa\source\repos\Books\Books.CommonHelper\bin\Debug\net6.0\Books.CommonHelper.dll
+C:\Users\Joshwa\source\repos\Books\Books.CommonHelper\bin\Debug\net6.0\Books.CommonHelper.pdb
+C:\Users\Joshwa\source\repos\Books\Books.CommonHelper\obj\Debug\net6.0\Books.CommonHelper.csproj.AssemblyReference.cache
+C:\Users\Joshwa\source\repos\Books\Books.CommonHelper\obj\Debug\net6.0\Books.CommonHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joshwa\source\repos\Books\Books.CommonHelper\obj\Debug\net6.0\Books.CommonHelper.AssemblyInfoInputs.cache
+C:\Users\Joshwa\source\repos\Books\Books.CommonHelper\obj\Debug\net6.0\Books.CommonHelper.AssemblyInfo.cs
+C:\Users\Joshwa\source\repos\Books\Books.CommonHelper\obj\Debug\net6.0\Books.CommonHelper.csproj.CoreCompileInputs.cache
+C:\Users\Joshwa\source\repos\Books\Books.CommonHelper\obj\Debug\net6.0\Books.CommonHelper.dll
+C:\Users\Joshwa\source\repos\Books\Books.CommonHelper\obj\Debug\net6.0\refint\Books.CommonHelper.dll
+C:\Users\Joshwa\source\repos\Books\Books.CommonHelper\obj\Debug\net6.0\Books.CommonHelper.pdb
+C:\Users\Joshwa\source\repos\Books\Books.CommonHelper\obj\Debug\net6.0\ref\Books.CommonHelper.dll
